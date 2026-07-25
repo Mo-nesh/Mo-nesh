@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monesh R</h1>
 
 <h3 align="center">
-AI/ML Graduate • AI Data Quality Analyst • Data Analyst
+AI/ML Graduate • Data Analyst • AI Data Quality Specialist
 </h3>
 
 <p align="center">
@@ -11,83 +11,132 @@ AI/ML Graduate • AI Data Quality Analyst • Data Analyst
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Graduate;AI+Data+Quality+Analyst;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Solutions+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Graduate;AI+Data+Analyst;AI+Data+Quality+Specialist;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Solutions+🚀" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm an **Artificial Intelligence & Machine Learning graduate (2025)** with professional experience in **AI-assisted workflows, academic analytics, data quality, process automation, and dashboard development**.
+I am an **Artificial Intelligence & Machine Learning graduate (2025)** with professional experience in **Data Analytics, AI Data Quality, Business Intelligence, Dashboard Development, Reporting Automation, and Process Optimization**.
 
-Currently, I work at **BASE Educational Services Pvt. Ltd.**, where I contribute to academic analytics, student performance analysis, question paper analysis, reporting automation, and AI-assisted workflow improvements.
+I have worked across analytics, AI data quality, and educational technology environments, transforming raw data into meaningful insights that support operational and business decision-making.
 
-I enjoy building practical, data-driven solutions using **Python, SQL, Power BI, Excel, and Machine Learning**, while continuously learning **Generative AI, Large Language Models (LLMs), and MLOps**.
-
----
-
-# 🛠 Tech Stack
-
-### Programming
-- Python
-- SQL
-
-### Data Analytics
-- Power BI
-- Advanced Excel
-- Data Visualization
-- Dashboard Development
-- Data Cleaning
-- Data Validation
-
-### AI & Machine Learning
-- Machine Learning
-- AI Data Quality
-- Prompt Engineering
-- AI Evaluation
-
-### Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+My expertise includes **Python, SQL, Power BI, Advanced Excel, Dashboard Development, Reporting Automation, AI-assisted Workflows, and Machine Learning**. I enjoy solving business problems using data while continuously learning **Generative AI, Large Language Models (LLMs), and MLOps**.
 
 ---
 
 # 💼 Professional Experience
 
-## BASE Educational Services Pvt. Ltd.
+## AI Data Analyst
+### BASE Educational Services Pvt. Ltd.
+**2026 – Present**
 
-**AI Data Analyst**
+#### Key Responsibilities
 
-### Key Responsibilities
-
+- Academic Data Analytics
 - Student Performance Analytics
-- Academic Data Analysis
-- AI-assisted Workflow Development
-- Question Paper Analysis
-- Dashboard Development
+- Question Paper Analysis Framework
+- Dashboard Development & Reporting
 - Excel Automation
+- AI-assisted Workflow Development
 - Process Optimization
-- Data Quality Validation
-- Educational Data Reporting
+- Educational Data Quality Validation
+- Data-driven Decision Support
+
+---
+
+## Data Analyst – AI Control Tower Project
+### Nia.one
+**2025 – 2026**
+
+#### Key Responsibilities
+
+- Developed Business Intelligence Dashboards
+- Attrition Analysis
+- Retention Analysis
+- Cohort Analysis
+- Trend Analysis
+- Flow Analysis
+- KPI Dashboarding
+- Executive Reporting
+- Business Performance Analysis
+- Data Validation & Quality Checks
+- Decision Support Reporting
+
+---
+
+## AI Data Quality Analyst Intern
+### Rooman Technologies Pvt. Ltd.
+
+#### Key Responsibilities
+
+- AI Data Quality Validation
+- Data Annotation & Verification
+- Dataset Cleaning & Pre-processing
+- Data Quality Assessment
+- Data Validation
+- AI Output Evaluation
+- Prompt Evaluation & Testing
+- Excel-based Reporting
+- Documentation & Quality Metrics
+
+---
+
+# 🛠 Technical Skills
+
+## Programming
+
+- Python
+- SQL
+
+## Data Analytics
+
+- Power BI
+- Advanced Excel
+- Dashboard Development
+- Data Visualization
+- Data Cleaning
+- Data Validation
+- Reporting Automation
+- Business Intelligence
+
+## AI & Machine Learning
+
+- Machine Learning
+- AI Data Quality
+- Prompt Engineering
+- AI Evaluation
+- Dataset Validation
+
+## Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Microsoft Excel
+- Power BI Desktop
 
 ---
 
 # 🚀 Featured Projects
 
-- 📊 Student Performance Analytics
+- 📊 Student Performance Analytics Dashboard
 - 📚 Question Paper Analysis Framework
-- 🤖 AI Data Quality Validation
-- 📈 Power BI Dashboards
-- ⚙️ Excel Automation Suite
-- 🐍 Python Data Analytics
+- 🤖 AI Data Quality Validation Framework
+- 📈 Power BI Business Dashboards
+- ⚙️ Excel Automation Solutions
+- 🐍 Python Data Analytics Projects
+- 📉 Attrition & Retention Analysis
+- 📊 Cohort & Trend Analysis
 
 ---
 
@@ -98,6 +147,7 @@ I enjoy building practical, data-driven solutions using **Python, SQL, Power BI,
 - MLOps
 - Cloud Technologies
 - Advanced Machine Learning
+- AI Automation
 
 ---
 
@@ -119,6 +169,19 @@ I enjoy building practical, data-driven solutions using **Python, SQL, Power BI,
 
 ---
 
+# 🎯 Career Interests
+
+- Artificial Intelligence
+- Data Analytics
+- AI Data Quality
+- Business Intelligence
+- Machine Learning
+- Data Engineering
+- Analytics Automation
+- Generative AI
+
+---
+
 # 📫 Connect With Me
 
 📧 **Email:** moneshmuddu@gmail.com
@@ -129,6 +192,6 @@ I enjoy building practical, data-driven solutions using **Python, SQL, Power BI,
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+⭐ Thanks for visiting my profile! Let's build intelligent, data-driven solutions together.
+</p>
