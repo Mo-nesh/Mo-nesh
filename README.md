@@ -46,7 +46,7 @@ My expertise includes **Python, SQL, Power BI, Advanced Excel, Dashboard Develop
 
 #### Key Responsibilities
 * **Dashboard Engineering:** Developed comprehensive Business Intelligence and executive KPI dashboards for operational oversight.
-* **Advanced Analytics:** Conducted rigorous attrition, retention, cohort, trend, and flow analysis.
+* **Advanced Analytics:** Conducted rigorous attrition, retention, cohort, funnel, trend, and flow analysis.
 * **Performance Reporting:** Provided executive reporting and business performance evaluation to guide strategic initiatives.
 * **Data Integrity:** Executed data validation and quality checks to ensure reliable reporting outcomes.
 
