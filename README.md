@@ -1,7 +1,10 @@
-# Hi there, I'm Monesh R 👋
+Hi, I'm Monesh R
+AI/ML Graduate
+Data Analyst
+AI Data Quality Analyst
 
 <h3 align="center">
-AI/ML Engineer | AI Data Quality Analyst | Data Analyst
+AI/ML Engineer | Data Analyst | AI Data Quality Specialist
 </h3>
 
 <p align="center">
@@ -14,11 +17,11 @@ AI/ML Engineer | AI Data Quality Analyst | Data Analyst
 
 ## 👨‍💻 About Me
 
-I am an Artificial Intelligence & Machine Learning graduate passionate about solving real-world problems through data, automation, and AI.
+I am an Artificial Intelligence & Machine Learning graduate (2025) with professional experience in AI-assisted workflows, academic analytics, data quality, and process automation.
 
-Currently, I work at BASE Educational Services Pvt. Ltd., where I contribute to academic analytics, process automation, AI-assisted workflows, and data-driven decision making.
+At BASE Educational Services Pvt. Ltd., I work on analyzing educational data, automating reporting workflows, supporting question paper analysis, and building dashboards that help improve operational and academic decision-making.
 
-I enjoy building practical solutions using Python, SQL, Power BI, Excel, and Machine Learning.
+I enjoy applying Python, SQL, Power BI, Excel, and Machine Learning to solve practical business and educational challenges, while continuously expanding my knowledge of Generative AI and modern data technologies.
 
 ---
 
