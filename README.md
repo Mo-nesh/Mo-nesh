@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monesh R</h1>
 
 <h3 align="center">
-AI/ML Graduate • Data Analyst • AI Data Quality Specialist
+AI/ML Engineer • Data Analyst • AI Data Quality Specialist • Business Intelligence
 </h3>
 
 <p align="center">
@@ -11,154 +11,203 @@ AI/ML Graduate • Data Analyst • AI Data Quality Specialist
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Graduate;AI+Data+Analyst;AI+Data+Quality+Specialist;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Solutions+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Graduate;AI+Data+Analyst;Business+Intelligence+Professional;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Actionable+Insights+🚀" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am an **Artificial Intelligence & Machine Learning graduate (2025)** with professional experience in **Data Analytics, AI Data Quality, Business Intelligence, Dashboard Development, Reporting Automation, and Process Optimization**.
+I am an **Artificial Intelligence & Machine Learning graduate (2025)** with professional experience in **Data Analytics, AI Data Quality, Business Intelligence, Dashboard Development, Reporting Automation, Educational Analytics, and Process Optimization**.
 
-I have worked across analytics, AI data quality, and educational technology environments, transforming raw data into meaningful insights that support operational and business decision-making.
+My career journey spans **AI Data Quality**, **Business Analytics**, and **Educational Analytics**, where I have transformed raw data into meaningful insights that support strategic decision-making and operational excellence.
 
-My expertise includes **Python, SQL, Power BI, Advanced Excel, Dashboard Development, Reporting Automation, AI-assisted Workflows, and Machine Learning**. I enjoy solving business problems using data while continuously learning **Generative AI, Large Language Models (LLMs), and MLOps**.
+I enjoy solving real-world business problems through **Python, SQL, Power BI, Advanced Excel, Machine Learning, and AI-assisted automation**, while continuously expanding my expertise in **Generative AI, Large Language Models (LLMs), Data Engineering, and MLOps**.
 
 ---
 
 # 💼 Professional Experience
 
-## AI Data Analyst
-### [BASE Educational Services Pvt. Ltd.](https://www.baseedu.in/)
-*📅 April 20, 2026 – Present*
+## Operations And Data Analytics Associate 
+### BASE Educational Services Pvt. Ltd.
+**April 20, 2026 – Present**
 
-#### Key Responsibilities
-* **Academic Analytics:** Managed academic data analytics and student performance tracking to drive institutional insights.
-* **Framework Development:** Designed and implemented structured question paper analysis frameworks.
-* **BI & Automation:** Developed interactive dashboards, advanced Excel automation scripts, and reporting frameworks.
-* **Optimization:** Built AI-assisted workflow solutions to streamline operations and ensure educational data quality validation for decision support.
+### Highlights
+
+- Designed and implemented Academic Analytics dashboards.
+- Developed Student Performance Analytics reports.
+- Built structured Question Paper Analysis frameworks.
+- Automated reporting workflows using Advanced Excel.
+- Developed interactive Power BI dashboards.
+- Supported AI-assisted workflow automation.
+- Improved educational data quality through validation and standardization.
+- Delivered analytical insights for academic and operational decision-making.
 
 ---
 
-## Data Analyst – AI Control Tower Project
-### [Nia.one](https://www.nia.one/) *(Umoja Marketplace Company Pvt Ltd)*
-*📅 August 4, 2025 – January 14, 2026*
+## Data Analyst — AI Control Tower Project
+### Nia.one (Umoja Marketplace Company Pvt. Ltd.)
+**August 4, 2025 – January 14, 2026**
 
-#### Key Responsibilities
-* **Dashboard Engineering:** Developed comprehensive Business Intelligence and executive KPI dashboards for operational oversight.
-* **Advanced Analytics:** Conducted rigorous attrition, retention, cohort, funnel, trend, and flow analysis.
-* **Performance Reporting:** Provided executive reporting and business performance evaluation to guide strategic initiatives.
-* **Data Integrity:** Executed data validation and quality checks to ensure reliable reporting outcomes.
+### Highlights
+
+- Designed Business Intelligence dashboards for executive reporting.
+- Conducted Attrition Analysis and Employee Retention Analysis.
+- Performed Cohort Analysis and Funnel Analysis.
+- Built Trend Analysis and Flow Analysis reports.
+- Created KPI dashboards for leadership monitoring.
+- Generated executive business reports.
+- Performed data validation and quality assurance.
+- Supported strategic business decisions through data-driven insights.
 
 ---
 
 ## AI Data Quality Analyst Intern
-### [Rooman Technologies Pvt. Ltd.](https://rooman.net/)
-*📅 March 1, 2025 – August 1, 2025*
+### Rooman Technologies Pvt. Ltd.
+**March 1, 2025 – August 1, 2025**
 
-#### Key Responsibilities
-* **Quality Assurance:** Performed AI data quality validation, dataset cleaning, and pre-processing.
-* **Model Evaluation:** Conducted AI output evaluation, prompt evaluation, and systematic testing.
-* **Annotation & Documentation:** Managed data annotation, verification processes, and Excel-based quality metric reporting.
+### Highlights
+
+- Validated AI datasets for quality and consistency.
+- Performed data annotation and verification.
+- Executed dataset cleaning and preprocessing.
+- Conducted AI output evaluation and prompt testing.
+- Measured and reported AI quality metrics.
+- Prepared Excel-based reports and documentation.
+- Assisted in improving dataset accuracy for AI applications.
 
 ---
 
 # 🛠 Technical Skills
 
-## Programming
-* Python
-* SQL
+## Programming Languages
+
+- Python
+- SQL
 
 ## Data Analytics
-* Power BI
-* Advanced Excel
-* Dashboard Development
-* Data Visualization
-* Data Cleaning & Validation
-* Reporting Automation
-* Business Intelligence
+
+- Power BI
+- Advanced Microsoft Excel
+- Dashboard Development
+- Data Visualization
+- Reporting Automation
+- Business Intelligence
+- KPI Reporting
+- Student Performance Analytics
 
 ## AI & Machine Learning
-* Machine Learning
-* AI Data Quality
-* Prompt Engineering
-* AI Evaluation
-* Dataset Validation
+
+- Machine Learning
+- AI Data Quality
+- Prompt Engineering
+- AI Evaluation
+- Dataset Validation
+
+## Analytics
+
+- Attrition Analysis
+- Retention Analysis
+- Cohort Analysis
+- Funnel Analysis
+- Trend Analysis
+- Flow Analysis
+
+## Data Engineering
+
+- Data Cleaning
+- Data Validation
+- Data Profiling
+- Process Automation
 
 ## Libraries
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
 ## Tools
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Microsoft Excel
-* Power BI Desktop
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Microsoft Excel
+- Power BI Desktop
 
 ---
 
 # 🚀 Featured Projects
 
-* 📊 Student Performance Analytics Dashboard
-* 📚 Question Paper Analysis Framework
-* 🤖 AI Data Quality Validation Framework
-* 📈 Power BI Business Dashboards
-* ⚙️ Excel Automation Solutions
-* 🐍 Python Data Analytics Projects
-* 📉 Attrition & Retention Analysis
-* 📊 Cohort & Trend Analysis
+- 📊 Student Performance Analytics Dashboard
+- 📚 Question Paper Analysis Framework
+- 📈 Business Intelligence Dashboard
+- 🤖 AI Data Quality Validation Framework
+- ⚙️ Excel Reporting Automation Suite
+- 🐍 Python Data Analytics Toolkit
+- 📉 Attrition & Retention Analytics
+- 📊 Cohort, Funnel & Trend Analysis
 
 ---
 
 # 🌱 Currently Learning
 
-* Generative AI
-* Large Language Models (LLMs)
-* MLOps
-* Cloud Technologies
-* Advanced Machine Learning
-* AI Automation
+- Generative AI
+- Large Language Models (LLMs)
+- MLOps
+- Data Engineering
+- Cloud Technologies
+- Advanced Machine Learning
+- AI Automation
+
+---
+
+# 🎯 Career Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Business Intelligence
+- AI Data Quality
+- Data Engineering
+- Analytics Automation
+- Generative AI
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mo-nesh&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-nesh&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Mo-nesh&theme=github-dark&hide_border=true"/>
+
 </p>
-
----
-
-# 🎯 Career Interests
-
-* Artificial Intelligence
-* Data Analytics
-* AI Data Quality
-* Business Intelligence
-* Machine Learning
-* Data Engineering
-* Analytics Automation
-* Generative AI
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** moneshmuddu@gmail.com  
-💼 **LinkedIn:** [https://www.linkedin.com/in/moneshr](https://www.linkedin.com/in/moneshr)  
-🐙 **GitHub:** [https://github.com/Mo-nesh](https://github.com/Mo-nesh)  
+📧 **Email:** moneshmuddu@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/moneshr
+
+🐙 **GitHub:** https://github.com/Mo-nesh
 
 ---
 
+<h3 align="center">
+⭐ Thank you for visiting my profile! ⭐
+</h3>
+
 <p align="center">
-⭐ Thanks for visiting my profile! Let's build intelligent, data-driven solutions together.
+<em>"Transforming Data into Intelligent Decisions through Analytics, AI, and Automation."</em>
 </p>
