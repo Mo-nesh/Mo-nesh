@@ -193,8 +193,8 @@ I enjoy solving real-world business problems through **Python, SQL, Power BI, Ad
 # 📫 Connect With Me
 
 - 📧 Email: **moneshmuddu@gmail.com**
-- 💼 LinkedIn
-- 🐙 GitHub
+- 💼 LinkedIn:** https://www.linkedin.com/in/moneshr
+- 🐙 GitHub:** https://github.com/Mo-nesh
 
 ---
 
