@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="Monesh R Banner" width="100%">
+  <img src="github-banner.png" alt="Monesh R Banner" width="100%">
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Monesh R</h1>
-
+# Hi 👋, I'm Monesh R
 <h3 align="center">
 AI/ML Engineer • Data Analyst • AI Data Quality Specialist • Business Intelligence
 </h3>
