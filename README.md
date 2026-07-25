@@ -1,31 +1,32 @@
-Hi, I'm Monesh R
-AI/ML Graduate
-Data Analyst
-AI Data Quality Analyst
-
-<h3 align="center">
-AI/ML Engineer | Data Analyst | AI Data Quality Specialist
-</h3>
+<h1 align="center">Hi 👋, I'm Monesh R</h1>
+<h3 align="center">AI/ML Graduate • Data Analyst • AI Data Quality Specialist</h3>
 
 <p align="center">
 🎓 B.E. in Artificial Intelligence & Machine Learning (2025)<br>
-💼 Currently working at BASE Educational Services Pvt. Ltd.<br>
+💼 AI Data Analyst at BASE Educational Services Pvt. Ltd.<br>
 📍 Bengaluru, Karnataka, India
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am an Artificial Intelligence & Machine Learning graduate (2025) with professional experience in AI-assisted workflows, academic analytics, data quality, and process automation.
+I'm an Artificial Intelligence & Machine Learning graduate with professional experience in **AI-assisted workflows, academic analytics, data quality, and process automation**.
 
-At BASE Educational Services Pvt. Ltd., I work on analyzing educational data, automating reporting workflows, supporting question paper analysis, and building dashboards that help improve operational and academic decision-making.
+At **BASE Educational Services Pvt. Ltd.**, I contribute to:
 
-I enjoy applying Python, SQL, Power BI, Excel, and Machine Learning to solve practical business and educational challenges, while continuously expanding my knowledge of Generative AI and modern data technologies.
+- 📊 Academic & student performance analytics
+- 🤖 AI-assisted workflow development
+- 📈 Dashboard creation and reporting
+- ⚙️ Excel automation
+- 📚 Question paper analysis
+- ✅ Data validation & quality assurance
+
+I enjoy solving real-world business and education problems using **Python, SQL, Power BI, Excel, and Machine Learning**, while continuously learning **Generative AI, LLMs, and MLOps**.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 ### Programming
 - Python
@@ -35,13 +36,13 @@ I enjoy applying Python, SQL, Power BI, Excel, and Machine Learning to solve pra
 - Power BI
 - Advanced Excel
 - Data Visualization
+- Dashboard Development
 - Data Cleaning
 - Data Validation
-- Dashboard Development
 
 ### AI & Machine Learning
 - Machine Learning
-- Data Quality Analysis
+- AI Data Quality
 - Prompt Engineering
 - AI Evaluation
 
@@ -59,76 +60,56 @@ I enjoy applying Python, SQL, Power BI, Excel, and Machine Learning to solve pra
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### BASE Educational Services Pvt. Ltd.
+## BASE Educational Services Pvt. Ltd.
 
 **AI Data Analyst**
 
-Responsibilities include:
+### Responsibilities
 
-- Academic data analysis
-- Student performance analytics
-- Excel automation
-- AI-assisted workflow development
-- Question paper analysis
-- Dashboard creation
-- Process optimization
-- Data quality validation
-
----
-
-## 🚀 Featured Projects
-
-🔹 Student Performance Analytics
-
-🔹 Question Paper Analysis Framework
-
-🔹 AI Data Quality Validation
-
-🔹 Excel Automation Tools
-
-🔹 Power BI Dashboards
-
-🔹 Python Data Analysis
+- Student Performance Analytics
+- Academic Data Analysis
+- AI-assisted Workflow Development
+- Question Paper Analysis
+- Dashboard Development
+- Excel Automation
+- Process Optimization
+- Data Quality Validation
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- Advanced Machine Learning
+- 📊 Student Performance Analytics
+- 📚 Question Paper Analysis Framework
+- 🤖 AI Data Quality Validation
+- 📈 Power BI Dashboards
+- ⚙️ Excel Automation Suite
+- 🐍 Python Data Analytics
+
+---
+
+# 🌱 Currently Learning
+
 - Generative AI
-- LLM Applications
-- Cloud Technologies
+- Large Language Models (LLMs)
 - MLOps
+- Cloud Technologies
+- Advanced Machine Learning
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
-📧 Email: moneshmuddu@gmail.com
+📧 **Email:** moneshmuddu@gmail.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/moneshr
+💼 **LinkedIn:** https://www.linkedin.com/in/moneshr
 
-🐙 GitHub:
-https://github.com/Mo-nesh
+🐙 **GitHub:** https://github.com/Mo-nesh
 
 ---
 
-⭐ Thank you for visiting my profile!
-
-<!--
-**Mo-nesh/Mo-nesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
