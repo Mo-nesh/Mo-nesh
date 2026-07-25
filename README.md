@@ -28,7 +28,7 @@ My expertise includes **Python, SQL, Power BI, Advanced Excel, Dashboard Develop
 
 # 💼 Professional Experience
 
-## AI Data Analyst
+## Operations And Data Analytics Associate
 ### BASE Educational Services Pvt. Ltd.
 *📅 April 20, 2026 – Present*
 
@@ -41,7 +41,7 @@ My expertise includes **Python, SQL, Power BI, Advanced Excel, Dashboard Develop
 ---
 
 ## Data Analyst – AI Control Tower Project
-### Nia.one
+### Nia.one - Umoja Marketplace Company Pvt Ltd
 *📅 August 4, 2025 – January 14, 2026*
 
 #### Key Responsibilities
