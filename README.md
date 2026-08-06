@@ -192,9 +192,10 @@ I enjoy solving real-world business problems through **Python, SQL, Power BI, Ad
 
 # 📫 Connect With Me
 
-- 📧 Email: **moneshmuddu@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/moneshr**
-- 🐙 GitHub: **https://github.com/Mo-nesh**
+- 📧 **Email:** moneshmuddu@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/moneshr](https://www.linkedin.com/in/moneshr)
+- 🐙 **GitHub:** [github.com/Mo-nesh](https://github.com/Mo-nesh)
+- 📄 **Resume:** [📥 Download My Resume](./Monesh_R_AI_Data_Analyst_Resume.pdf)
 
 ---
 
