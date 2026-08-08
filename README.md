@@ -1,10 +1,13 @@
+![Monesh R - AI/ML Engineer | Data Analyst](./assets/github-banner.png)
 # Hi 👋, I'm Monesh R
 
 ### AI/ML Engineer | Data Analyst | Business Intelligence | AI Data Quality Specialist
 
-**B.E. in Artificial Intelligence & Machine Learning — 2025**  
-**Operations & Data Analytics Associate — BASE Educational Services Pvt. Ltd.**  
-📍 Bengaluru, Karnataka, India
+🎓 **B.E. in Artificial Intelligence & Machine Learning — 2025**  
+💼 **Operations & Data Analytics Associate | BASE Educational Services Pvt. Ltd.**  
+📍 **Bengaluru, Karnataka, India**
+
+**Transforming Data into Intelligent Decisions through Analytics, AI & Automation.**
 
 ---
 
