@@ -133,7 +133,8 @@ Computer Vision-based Human-Computer Interaction system that enables touchless c
 
 Academic project exploring the application of cloud computing technologies within educational environments, with a focus on scalable infrastructure, centralized data management, accessibility, collaboration, and technology-enabled learning.
 
-🔗 [View Project](https://github.com/monesh-r/Cloud-Computing-in-Educational-Sectors)
+🔗 **[View Project](https://github.com/monesh-r/Cloud-Computing-in-Educational-Sectors)**
+
 ---
 
 # 📌 Core Areas of Expertise
